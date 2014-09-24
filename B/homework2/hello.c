@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-int num;
-num = 6;
-printf("num = %d\n",num);
+float num;
+num = 5.959595;
+printf("num = %f\n",num);
 return 0;
 }
