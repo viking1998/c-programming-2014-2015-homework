@@ -2,6 +2,9 @@
 
 int main()
 {
-	float numb = 3.14;
-	printf("Integer : %.2f",numb);
+	int i;
+	for(i=0;i<26;i++){
+		char ch = 65+i;
+		printf("%d : %c \n",i+1,ch);	
+	}
 }
