@@ -2,6 +2,6 @@
 
 int main()
 {
-	int numb = 5;
-	printf("Integer : %d",numb);
+	float numb = 3.14;
+	printf("Integer : %.2f",numb);
 }
