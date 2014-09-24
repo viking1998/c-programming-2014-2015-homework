@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("Hello World!");
+	int numb = 5;
+	printf("Integer : %d",numb);
 }
