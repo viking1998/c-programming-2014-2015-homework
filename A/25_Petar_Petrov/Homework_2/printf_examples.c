@@ -1,9 +1,13 @@
 #include <stdio.h>
 int main()
 {
-    int chislo;
-    chislo = 10;
+    double avrmark;
+    avrmark = 5.933;
     
-    printf("Years since the 1st grade: %d\n",chislo);
+    float price;
+    price = 2.45;
+    
+    printf("My average grade in Maths is :  %.3lf\n",avrmark);
+    printf("The change for your purchase is : $%.2f\n",price);
     return 0;
 }
