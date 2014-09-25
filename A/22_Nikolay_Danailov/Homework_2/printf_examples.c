@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include <time.h>
 
 int main()
 {
-	printf("Hello World!\n");
+	srand(time(NULL));
+	int randomInt = rand();
+	printf("Random integer number: %d\n", randomInt);
 	return 0;
 }
