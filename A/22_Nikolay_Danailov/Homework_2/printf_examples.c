@@ -1,18 +1,16 @@
 #include <stdio.h>
 #include <time.h>
-const int RandMax = 2000000000;
-
-double randfrom(double min, double max) 
-{
-	srand(time(NULL));
-    	double range = (max - min); 
-    	double divider = RandMax / range;
-    	return min + (rand() / divider);
-}
 
 int main()
 {
-	printf("Random integer number: %lf\n", randfrom(1l, RandMax));
+	srand(time(NULL));
+	int charCount = rand() % 10 + 1;
+	int i;
+
+	for(i = 0; i < charCount; i++)
+	{	
+		printf("Char %d: %c\n", i + 1, rand(1, 255));
+	}
+
 	return 0;
 }
-
