@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    printf("Hello World!\n");
+    int chislo;
+    chislo = 10;
+    
+    printf("Years since the 1st grade: %d\n",chislo);
     return 0;
 }
