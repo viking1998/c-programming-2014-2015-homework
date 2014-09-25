@@ -1,13 +1,11 @@
 #include <stdio.h>
 int main()
 {
-    double avrmark;
-    avrmark = 5.933;
+    char init1,init2,init3;
+    init1 = 'P' ;
+    init2 = 'S' ;
+    init3 = 'P' ;
     
-    float price;
-    price = 2.45;
-    
-    printf("My average grade in Maths is :  %.3lf\n",avrmark);
-    printf("The change for your purchase is : $%.2f\n",price);
+    printf("My initials are : %c.%c.%c\n",init1,init2,init3);
     return 0;
 }
