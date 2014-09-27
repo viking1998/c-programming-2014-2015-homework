@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int main() {
-	float number=3.4;
-	printf("%2.1f\n", number);
+	char c1='a', c2='b', c3='c';
+	printf("%c\n%c\n%c\n", c1, c2, c3);
 	return 0;
 }
