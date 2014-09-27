@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {	
-	int number;
-	number = 16;
-	printf("I am %d years old \n",number);
+	double chislo;
+	chislo = 55.247;
+	printf("Random double: %.2f\n",chislo);
 	return 0;
 }
