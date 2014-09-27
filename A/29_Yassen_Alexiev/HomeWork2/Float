@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main (void) {
+  double d;
+  printf ("d is %f", d);
+return 0;
+}
