@@ -2,7 +2,9 @@
 
 int main()
 {
-	float number = 20.20;
-	printf("Int number: %f\n", number);
+	char a = 'a';
+	char b = 'b';
+	char c = 'c';
+	printf("Chars : %c %c %c\n", a, b, c);
 	return 0;
 }
