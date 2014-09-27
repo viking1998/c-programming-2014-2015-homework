@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
-  float num=9.4f;
-printf("%.1f\n",num);
+  char num=95;
+  char num2;
+  num2='D';
+printf("%c,%c\n",num,num2);
 return 0;
 }
