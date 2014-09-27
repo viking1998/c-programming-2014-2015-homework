@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-  int num=94;
-printf("%d\n",num);
+  float num=9.4f;
+printf("%.1f\n",num);
 return 0;
 }
