@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Hello World!");
+	int a = "5";
+	printf("Integer: %c", a);
 	return 0;
 }
