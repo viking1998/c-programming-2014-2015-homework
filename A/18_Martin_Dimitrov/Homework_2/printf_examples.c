@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a = "5";
-	printf("Integer: %d", a);
+	float a = "5.02";
+	printf("Integer: %f", a);
 	return 0;
 }
