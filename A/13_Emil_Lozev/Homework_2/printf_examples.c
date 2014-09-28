@@ -2,6 +2,8 @@
 
  int main()
 {
- printf("Hello world\n");
+ int number;
+ number = 6;
+ printf("Number = %d\n", number);
  return 0;
 }
