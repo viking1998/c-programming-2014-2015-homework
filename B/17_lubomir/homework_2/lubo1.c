@@ -4,7 +4,8 @@
 
 	
 
-		printf("Hello World\n");
+		int number;
+		printf("number=%d\n",number)
 
 
 		return 0;
