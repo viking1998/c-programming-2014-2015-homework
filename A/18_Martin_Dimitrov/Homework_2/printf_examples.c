@@ -2,7 +2,7 @@
 
 int main()
 {
-	real a = "5";
+	int a = "5";
 	printf("Integer: %d", a);
 	return 0;
 }
