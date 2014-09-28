@@ -2,8 +2,10 @@
 
 int main()
 {
-	float num;
-	num = 5.8;
-	printf("%f\n", num);
+	char h, t, c;	
+	h = 'h';
+	t = 't';
+	c = 'c';
+	printf(" %c\n %c\n %c\n", h, t, c);
 	return 0;
 }
