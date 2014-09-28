@@ -2,10 +2,9 @@
 
 	int main() {
 
-		
-		int number;
+	
 
-		printf("number=%d\n",number);
+		printf("Hello World\n");
 
 
 		return 0;
