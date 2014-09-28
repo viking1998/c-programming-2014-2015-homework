@@ -4,8 +4,8 @@
 
 	
 
-		int number;
-		printf("number=%d\n",number)
+		float number;
+		printf("number=%.3f\n",number)
 
 
 		return 0;
