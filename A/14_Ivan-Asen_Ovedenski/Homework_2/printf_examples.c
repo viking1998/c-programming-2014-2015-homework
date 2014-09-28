@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 int main (){
-	char in1,in2,in3 ;
-	in1 = 'I';
-	in2 = 'B';
-	in3 = 'O';
-	printf("Initials : %c%c%c\n",in1,in2,in3);
+	double num1 = 3;
+	float num2 = 23;
+	printf("Double : %lf\n",num1);
+	printf("Float : %f\n",num2);
 	return 0 ;
 }
