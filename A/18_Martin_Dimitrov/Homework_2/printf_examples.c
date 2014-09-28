@@ -2,7 +2,10 @@
 
 int main()
 {
-	float a = "5.02";
-	printf("Integer: %f", a);
+	char a = "a";
+	char b = "b";
+	char c = "c";
+	char d = "e";
+	printf("Chars: %c %c %c %c", a, b, c, d);
 	return 0;
 }
