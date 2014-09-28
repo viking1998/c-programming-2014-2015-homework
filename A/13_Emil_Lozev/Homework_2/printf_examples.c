@@ -2,10 +2,9 @@
 
  int main()
 {
- float float_n;
- double double_n;
-	float_n = 1.24498;
-	double_n = 5.3562;
- printf("Float = %.2f\nDouble = %.3lf\n", float_n, double_n);
+ char letter, letter_1;
+ letter = 'A';
+ letter_1 = 66;
+ printf("Char example 1 = %c\nChar example 2 = %c\n", letter, letter_1);
  return 0;
 }
