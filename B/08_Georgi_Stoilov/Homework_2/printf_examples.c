@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-
-	printf("Hello World!\n");
+int val = 99;
+	printf("Val = %d\n",val);
 	return 0;
 
 }
