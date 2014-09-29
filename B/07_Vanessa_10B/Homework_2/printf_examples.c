@@ -2,7 +2,9 @@
 
 int main () {
 
-  printf("Hello World!\n");
+  int chislo ;
+
+  printf("Number = %d\n",chislo );
 
 return 0;
 }
