@@ -2,9 +2,9 @@
 
 int main () {
 
-  int chislo ;
+  float number = 5.345 ;
 
-  printf("Number = %d\n",chislo );
+  printf("Number = %2.3f\n", number);
 
 return 0;
 }
