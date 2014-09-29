@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello World!\n");
+	int _integer = 20;
+
+	printf("Cqlo chislo: %d\n", _integer);
 return 0;
 }
