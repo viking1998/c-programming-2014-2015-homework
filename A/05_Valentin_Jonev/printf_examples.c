@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int myRandomInt = 69;
-	printf("%d\n",myRandomInt);
+	float myRandomFloat = 6.9;
+	printf("%f\n",myRandomFloat);
 	return 0;
 }
