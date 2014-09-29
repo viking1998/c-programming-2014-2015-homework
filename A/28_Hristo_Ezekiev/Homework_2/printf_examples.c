@@ -2,7 +2,7 @@
 
 int main()
 {
-	double price=20.57;
-	printf("Soo, the price for all that would be %.2lf.\n",price);
+	char letter='H';
+	printf("The first letter of my name is %c.\n",letter);
 	return 0;
 }
