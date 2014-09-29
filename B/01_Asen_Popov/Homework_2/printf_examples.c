@@ -1,6 +1,13 @@
 #include<stdio.h>
 
 int main(){
-	float x=2014.2014;
-    	printf("x = %0.1f\n",x);
+	char a='e';
+	char b='s';
+	char c='e';
+	char d='d';
+    	printf("1 = %c\n", a);
+	printf("2 = %c\n", b);
+	printf("3 = %c\n", c);
+	printf("4 = %c\n", d);
+	
 }
