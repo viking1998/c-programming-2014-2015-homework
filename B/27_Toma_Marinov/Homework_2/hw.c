@@ -2,7 +2,9 @@
 
 int main()
 {
-	int t;
-	printf("%d\n", t);
+	double t;
+	t = 91.19f;
+	
+	printf("%05.2f\n", t);
 	return 0;
 }
