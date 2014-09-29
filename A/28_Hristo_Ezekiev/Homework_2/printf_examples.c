@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Hello World!\n");
+	int pizza=11;
+	printf("People who like pizza:%d\n",pizza);
 	return 0;
 }
