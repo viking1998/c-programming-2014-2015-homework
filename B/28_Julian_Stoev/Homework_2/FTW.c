@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	float num= 3.3;
-	printf("%1.1f\n", num);
+	char a= 'Z', b= 'Y', c= 'X';
+ 	printf("%c %c %c\n ", a, b, c);
 	return 0;
-} 
+}
