@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	int x=4;
-    	printf("x = %d\n",x);
+	float x=2014.2014;
+    	printf("x = %0.1f\n",x);
 }
