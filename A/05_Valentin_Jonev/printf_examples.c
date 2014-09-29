@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	float myRandomFloat = 6.9;
-	printf("%f\n",myRandomFloat);
+	char myRandomChar = 'x';
+	printf("%c\n",myRandomChar);
 	return 0;
+
 }
