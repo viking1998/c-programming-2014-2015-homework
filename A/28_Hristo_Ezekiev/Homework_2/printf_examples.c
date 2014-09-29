@@ -2,7 +2,7 @@
 
 int main()
 {
-	int pizza=11;
-	printf("People who like pizza:%d\n",pizza);
+	double price=20.57;
+	printf("Soo, the price for all that would be %.2lf.\n",price);
 	return 0;
 }
