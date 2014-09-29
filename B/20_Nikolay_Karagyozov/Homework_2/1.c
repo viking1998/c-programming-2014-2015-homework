@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 int main(){
-	float _float;
-	_float = 4.764365f;
+	char a = 'A';
+	char b = 66;
 
-	printf("Chislo s plavashta zapetaq: %.3f\n", _float);
+	printf("Promenliva 1: %c\n", a);
+	printf("Promenliva 2: %c\n", b);
+
 return 0;
 }
