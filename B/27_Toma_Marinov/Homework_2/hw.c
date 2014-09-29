@@ -2,9 +2,6 @@
 
 int main()
 {
-	double t;
-	t = 91.19f;
-	
-	printf("%05.2f\n", t);
+	printf("Hello World!\n");
 	return 0;
 }
