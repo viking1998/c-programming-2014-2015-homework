@@ -1,8 +1,0 @@
-#include <stdio.h>
-int main()
-{
-char num;
-num = 77;
-printf("%c",num);
-return 0;
-}
