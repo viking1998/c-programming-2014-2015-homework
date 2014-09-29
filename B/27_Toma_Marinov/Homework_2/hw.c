@@ -2,9 +2,11 @@
 
 int main()
 {
-	double t;
-	t = 91.19f;
+	char t = 'T';
+	char p = 'P';
+	char n = 'N';
 	
-	printf("%05.2f\n", t);
+	printf("\n");
+	printf("%c, %c, %c\n", t, p, n);
 	return 0;
 }
