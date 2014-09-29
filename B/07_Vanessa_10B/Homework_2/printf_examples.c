@@ -1,10 +1,18 @@
 #include<stdio.h>
 
 int main () {
+ 
+  char a, b, c, d;
+  
+  a = '*';
 
-  float number = 5.345 ;
+  b = 'B';
 
-  printf("Number = %2.3f\n", number);
+  c = 'C';
+
+  d = 'D';
+
+  printf("A = %c\nB = %c\nC = %c\nD = %c\n", a,b,c,d);
 
 return 0;
 }
