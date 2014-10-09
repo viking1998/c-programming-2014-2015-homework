@@ -28,7 +28,7 @@ int main()
 		{
 			if (previousPrime == i - 2)
 			{
-				printf("(%d, %d)", previousPrime, i);
+				printf("(%d, %d)\n", previousPrime, i);
 				foundCombinations++;
 			}
 			
