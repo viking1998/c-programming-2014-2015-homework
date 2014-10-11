@@ -19,7 +19,7 @@ int main()
 	}
 	
 	printf("44140595050111976643, ");  //Forgive me Father, for I have sinned
-	printf("71420983074726546239, ");  //These are my sins
+	printf("71420983074726546239, ");
 	printf("115561578124838522882, ");
 	printf("186982561199565069121, ");
 	printf("302544139324403592003, ");
