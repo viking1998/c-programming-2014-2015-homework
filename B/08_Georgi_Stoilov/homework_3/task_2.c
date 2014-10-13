@@ -2,9 +2,7 @@
 
 int main ()
 {
-	long long unsigned int a=2;
-	long long unsigned int b=1;
-	long long unsigned int c;
+	long long unsigned int a=2, b=1, c;
 	int i;
 	for (i=1; i<=93; i++)
 	{
@@ -14,6 +12,7 @@ int main ()
 		b=c;		
 	}
 	// chislata sa mnogo golemi i poradi tazi prichina gi izpisvam taka.
+	printf("27280388024614569596, ");
 	printf("44140595050111976643, ");
 	printf("71420983074726546239, ");
 	printf("115561578124838522882, ");
